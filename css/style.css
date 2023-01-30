@@ -1,0 +1,54 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+#main-title {
+    color: green;
+    /* font-family: 'Roboto', sans-serif; */
+    font-size: 2rem;
+    text-align: right;
+    text-decoration: line-through;
+}
+
+h2 {
+    /* color: blue; */
+    font-size: 18px;
+}
+
+.blue-title {
+    color: rgb(0, 0, 255, 1);
+}
+
+.pink-title {
+    color: #800080;
+}
+
+.large-title {
+    font-size: 30px;
+}
+
+.light-section {
+    background-color: lightblue;
+}
+
+.main-header {
+    height: 200px;
+    background-image: url(../img/cat.jpg);
+    /* background-size: 10% 50%; */
+    /* background-size: contain; */
+    background-repeat: no-repeat;
+    /* background: url(../img/cat.jpg) no-repeat; */
+}
+
+.square {
+    width: 150px;
+    height: 150px;
+    background-color: red;
+}
+
+.border {
+    /* border-width: 3px;
+    border-style: solid;
+    border-color: blue; */
+    border: 3px dashed blue;
+}
